@@ -1,1 +1,1 @@
-var a="domain.com",b="https://pemudanolep.blogspot.com",c="https://pemudanolep.blogspot.com";window.location.href.includes(a)||window.location.href.includes(b)||window.location.href.includes(c)||(window.location.href="https://pemudanolep.blogspot.com");
+var a="kuma-batch.blogspot.com",b="https://pemudanolep.blogspot.com",c="https://pemudanolep.blogspot.com";window.location.href.includes(a)||window.location.href.includes(b)||window.location.href.includes(c)||(window.location.href="https://pemudanolep.blogspot.com");
